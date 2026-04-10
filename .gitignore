@@ -1,0 +1,19 @@
+# Compilados
+*.class
+
+# Maven
+target/
+
+# Gradle
+build/
+
+# Logs
+*.log
+
+# IDEs
+.vscode/
+.idea/
+*.iml
+
+# Sistema
+.DS_Store
